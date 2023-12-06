@@ -3,5 +3,7 @@
         "CMakeTools.cmakePath": "C:/Program Files/CMake/bin/cmake.exe",
         "CMAKE_C_COMPILER": "C:/MinGW/bin/gcc.exe",
         "CMAKE_CXX_COMPILER": "C:/MinGW/bin/g++.exe"
-    }
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "cmake.buildDirectory": "${workspaceFolder}/build"
 }
