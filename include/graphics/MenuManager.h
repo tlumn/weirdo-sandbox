@@ -3,5 +3,5 @@
 class MenuManager {
 public:
     MenuManager();
-    void testFunction();
+    int main();
 };
