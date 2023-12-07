@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "C:/fazer-backup/projetos/weirdo-sandbox/bin/libWeirdoSandbox.dll.a"
   "CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj"
   "CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj.d"
+  "CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj"
+  "CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj.d"
 )
 
 # Per-language clean rules from dependency scanning.

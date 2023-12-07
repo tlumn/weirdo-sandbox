@@ -152,6 +152,30 @@ C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\WeirdoSandbox.dir\build.make CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.s
 .PHONY : C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.s
 
+C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.obj: C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj
+.PHONY : C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.obj
+
+# target to build an object file
+C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WeirdoSandbox.dir\build.make CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj
+.PHONY : C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj
+
+C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.i: C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.i
+.PHONY : C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.i
+
+# target to preprocess a source file
+C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WeirdoSandbox.dir\build.make CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.i
+.PHONY : C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.i
+
+C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.s: C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.s
+.PHONY : C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.s
+
+# target to generate assembly for a file
+C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WeirdoSandbox.dir\build.make CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.s
+.PHONY : C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -164,6 +188,9 @@ help:
 	@echo ... C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.obj
 	@echo ... C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.i
 	@echo ... C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.s
+	@echo ... C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.obj
+	@echo ... C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.i
+	@echo ... C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.s
 .PHONY : help
 
 

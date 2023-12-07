@@ -1,5 +1,6 @@
-CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj: \
- C:\fazer-backup\projetos\weirdo-sandbox\src\core\main.cpp \
+CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj: \
+ C:\fazer-backup\projetos\weirdo-sandbox\src\graphics\MenuManager.cpp \
+ c:\fazer-backup\projetos\weirdo-sandbox\include\graphics\menumanager.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\iostream \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\mingw32\bits\os_defines.h \
@@ -99,6 +100,4 @@ CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/ma
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_ios.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
- c:\mingw\include\conio.h \
- c:\fazer-backup\projetos\weirdo-sandbox\include\graphics\menumanager.h
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc

@@ -1,5 +1,7 @@
 #include <iostream>
 #include <conio.h>
+#include "graphics/MenuManager.h"
+
 using namespace std;
 
 int main() {
@@ -27,6 +29,9 @@ int main() {
 
             cout << "\n\n";
         }
+
+        MenuManager menu;
+        menu.testFunction();
 
         // Get User Key
         char key = _getch();

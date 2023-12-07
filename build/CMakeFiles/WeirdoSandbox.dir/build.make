@@ -69,6 +69,7 @@ include CMakeFiles/WeirdoSandbox.dir/progress.make
 include CMakeFiles/WeirdoSandbox.dir/flags.make
 
 CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj: CMakeFiles/WeirdoSandbox.dir/flags.make
+CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj: CMakeFiles/WeirdoSandbox.dir/includes_CXX.rsp
 CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj: C:/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp
 CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj: CMakeFiles/WeirdoSandbox.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\fazer-backup\projetos\weirdo-sandbox\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj"
@@ -82,19 +83,36 @@ CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/ma
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\fazer-backup\projetos\weirdo-sandbox\src\core\main.cpp -o CMakeFiles\WeirdoSandbox.dir\C_\fazer-backup\projetos\weirdo-sandbox\src\core\main.cpp.s
 
+CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj: CMakeFiles/WeirdoSandbox.dir/flags.make
+CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj: CMakeFiles/WeirdoSandbox.dir/includes_CXX.rsp
+CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj: C:/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp
+CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj: CMakeFiles/WeirdoSandbox.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\fazer-backup\projetos\weirdo-sandbox\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj -MF CMakeFiles\WeirdoSandbox.dir\C_\fazer-backup\projetos\weirdo-sandbox\src\graphics\MenuManager.cpp.obj.d -o CMakeFiles\WeirdoSandbox.dir\C_\fazer-backup\projetos\weirdo-sandbox\src\graphics\MenuManager.cpp.obj -c C:\fazer-backup\projetos\weirdo-sandbox\src\graphics\MenuManager.cpp
+
+CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\fazer-backup\projetos\weirdo-sandbox\src\graphics\MenuManager.cpp > CMakeFiles\WeirdoSandbox.dir\C_\fazer-backup\projetos\weirdo-sandbox\src\graphics\MenuManager.cpp.i
+
+CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\fazer-backup\projetos\weirdo-sandbox\src\graphics\MenuManager.cpp -o CMakeFiles\WeirdoSandbox.dir\C_\fazer-backup\projetos\weirdo-sandbox\src\graphics\MenuManager.cpp.s
+
 # Object files for target WeirdoSandbox
 WeirdoSandbox_OBJECTS = \
-"CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj"
+"CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj" \
+"CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj"
 
 # External object files for target WeirdoSandbox
 WeirdoSandbox_EXTERNAL_OBJECTS =
 
 C:/fazer-backup/projetos/weirdo-sandbox/bin/WeirdoSandbox.exe: CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/core/main.cpp.obj
+C:/fazer-backup/projetos/weirdo-sandbox/bin/WeirdoSandbox.exe: CMakeFiles/WeirdoSandbox.dir/C_/fazer-backup/projetos/weirdo-sandbox/src/graphics/MenuManager.cpp.obj
 C:/fazer-backup/projetos/weirdo-sandbox/bin/WeirdoSandbox.exe: CMakeFiles/WeirdoSandbox.dir/build.make
 C:/fazer-backup/projetos/weirdo-sandbox/bin/WeirdoSandbox.exe: CMakeFiles/WeirdoSandbox.dir/linkLibs.rsp
 C:/fazer-backup/projetos/weirdo-sandbox/bin/WeirdoSandbox.exe: CMakeFiles/WeirdoSandbox.dir/objects1.rsp
 C:/fazer-backup/projetos/weirdo-sandbox/bin/WeirdoSandbox.exe: CMakeFiles/WeirdoSandbox.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\fazer-backup\projetos\weirdo-sandbox\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C:\fazer-backup\projetos\weirdo-sandbox\bin\WeirdoSandbox.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\fazer-backup\projetos\weirdo-sandbox\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable C:\fazer-backup\projetos\weirdo-sandbox\bin\WeirdoSandbox.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\WeirdoSandbox.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
