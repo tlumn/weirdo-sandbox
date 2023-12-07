@@ -6,5 +6,5 @@ MenuManager::MenuManager() {
 }
 
 void MenuManager::testFunction() {
-    std::cout << "Função de teste de MenuManager\n";
+    std::cout << "Funcao de teste de MenuManager\n";
 }
