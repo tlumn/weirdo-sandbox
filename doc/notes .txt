@@ -1,0 +1,32 @@
+cmake -G "MinGW Makefiles" .
+
+cmake --build .
+
+
+//
+
+root/
+|-- src/        # Código-fonte (.cpp)
+|-- include/    # Cabeçalhos (.h)
+|-- lib/        # Bibliotecas externas
+|-- bin/        # Executáveis
+|-- build/      # Arquivos de compilação (gerados pelo CMake)
+|-- other/      # Arquivos de configuração, scripts, etc.
+|-- doc/        # Documentação do projeto
+
+
+//
+
+include/
+|-- util/        # Cabeçalhos relacionados a utilidades
+|   |-- MenuManager.h
+|-- graphics/    # Cabeçalhos relacionados a gráficos
+|-- core/        # Cabeçalhos principais do projeto
+|-- ...
+
+src/
+|-- util/        # Implementações relacionadas a utilidades
+|   |-- MenuManager.cpp
+|-- graphics/    # Implementações relacionadas a gráficos
+|-- core/        # Implementações principais do projeto
+|-- ...
