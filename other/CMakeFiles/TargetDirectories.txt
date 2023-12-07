@@ -1,0 +1,3 @@
+C:/fazer-backup/projetos/weirdo-sandbox/other/CMakeFiles/WeirdoSandbox.dir
+C:/fazer-backup/projetos/weirdo-sandbox/other/CMakeFiles/edit_cache.dir
+C:/fazer-backup/projetos/weirdo-sandbox/other/CMakeFiles/rebuild_cache.dir
